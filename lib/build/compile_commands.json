@@ -1,0 +1,167 @@
+[
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\euler.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\euler.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\euler.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\affine.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\affine.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\affine.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\io.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\io.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\io.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\quat.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\quat.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\quat.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\cam.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\cam.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\cam.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\vec2.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\vec2.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\vec2.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\vec3.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\vec3.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\vec3.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\vec4.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\vec4.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\vec4.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\mat2.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\mat2.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\mat2.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\mat3.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\mat3.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\mat3.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\mat4.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\mat4.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\mat4.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\plane.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\plane.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\plane.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\frustum.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\frustum.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\frustum.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\box.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\box.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\box.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\project.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\project.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\project.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\sphere.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\sphere.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\sphere.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\ease.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\ease.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\ease.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\curve.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\curve.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\curve.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\bezier.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\bezier.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\bezier.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\ray.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\ray.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\ray.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\affine2d.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\affine2d.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\affine2d.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\persp_lh_zo.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\persp_lh_zo.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\persp_lh_zo.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\persp_rh_zo.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\persp_rh_zo.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\persp_rh_zo.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\persp_lh_no.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\persp_lh_no.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\persp_lh_no.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\persp_rh_no.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\persp_rh_no.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\persp_rh_no.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\ortho_lh_zo.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\ortho_lh_zo.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\ortho_lh_zo.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\ortho_rh_zo.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\ortho_rh_zo.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\ortho_rh_zo.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\ortho_lh_no.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\ortho_lh_no.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\ortho_lh_no.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\ortho_rh_no.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\ortho_rh_no.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\ortho_rh_no.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\view_lh_zo.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\view_lh_zo.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\view_lh_zo.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\view_rh_zo.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\view_rh_zo.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\view_rh_zo.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\view_lh_no.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\view_lh_no.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\view_lh_no.c"
+},
+{
+  "directory": "C:/Users/llchi/Documents/minecraft-weekend/lib/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DCGLM_EXPORTS -Dcglm_EXPORTS -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/include -IC:/Users/llchi/Documents/minecraft-weekend/lib/cglm/src -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -Wall -Werror -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\view_rh_no.c.obj -c C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\view_rh_no.c",
+  "file": "C:\\Users\\llchi\\Documents\\minecraft-weekend\\lib\\cglm\\src\\clipspace\\view_rh_no.c"
+}
+]

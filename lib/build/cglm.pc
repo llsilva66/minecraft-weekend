@@ -1,0 +1,11 @@
+prefix=C:/Program Files (x86)/cglm
+exec_prefix=C:/Program Files (x86)/cglm
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: cglm
+Description: OpenGL Mathematics (glm) for C
+URL: https://github.com/recp/cglm
+Version: 
+Cflags: -I${includedir}
+Libs: -L${libdir} -lcglm 

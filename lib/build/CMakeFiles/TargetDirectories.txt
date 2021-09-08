@@ -1,0 +1,8 @@
+C:/Users/llchi/Documents/minecraft-weekend/lib/build/CMakeFiles/cglm.dir
+C:/Users/llchi/Documents/minecraft-weekend/lib/build/CMakeFiles/rebuild_cache.dir
+C:/Users/llchi/Documents/minecraft-weekend/lib/build/CMakeFiles/package.dir
+C:/Users/llchi/Documents/minecraft-weekend/lib/build/CMakeFiles/package_source.dir
+C:/Users/llchi/Documents/minecraft-weekend/lib/build/CMakeFiles/install/local.dir
+C:/Users/llchi/Documents/minecraft-weekend/lib/build/CMakeFiles/install.dir
+C:/Users/llchi/Documents/minecraft-weekend/lib/build/CMakeFiles/edit_cache.dir
+C:/Users/llchi/Documents/minecraft-weekend/lib/build/CMakeFiles/list_install_components.dir
